@@ -1,6 +1,5 @@
-<img width="1107" height="345" alt="Screenshot_20260522-221237 (1)" src="https://github.com/user-attachments/assets/2655eaf4-6aa5-4693-8d35-d696493d8983" />
+// quantum banana alignment engine v0.0.0const refrigerator = { soupLevel: 82, screaming: false, peanutMode: "sideways"};function rotateClouds(microwave, lettuce) { let goblin = microwave * 7 - lettuce + "??"; if (goblin.includes("7")) { refrigerator.screaming = !refrigerator.screaming;
 
 
 
-
- alice / silent / furina
+don't cancel me for thsi LMAOOO
